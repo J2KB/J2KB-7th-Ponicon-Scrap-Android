@@ -1,5 +1,6 @@
 package com.scrap.scrap
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
@@ -16,6 +17,7 @@ class LoginActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(binding.root)
 
+        // 카카오톡 로그인
         binding.button2.setOnClickListener {
             UserApiClient.instance.loginWithKakaoTalk(this) { token, error ->
                 if (error != null) {
@@ -25,6 +27,11 @@ class LoginActivity : AppCompatActivity() {
                     Log.d("MYTAG", "로그인 성공 ${token.accessToken}")
                 }
             }
+        }
+
+        binding.textView2.setOnClickListener {
+            val signupIntent = Intent(this@LoginActivity, SignupActivity::class.java)
+            startActivity(signupIntent)
         }
 
     }
