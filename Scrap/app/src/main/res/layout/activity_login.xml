@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/white"
-    tools:context=".LoginActivity">
+    tools:context=".UI.LoginActivity">
 
     <TextView
         android:id="@+id/textView"
@@ -22,7 +22,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <EditText
-        android:id="@+id/editTextTextPersonName"
+        android:id="@+id/loginId"
         android:layout_width="268dp"
         android:layout_height="43dp"
         android:layout_marginStart="53dp"
@@ -30,15 +30,16 @@
         android:background="@drawable/rectangle2"
         android:ems="10"
         android:fontFamily="@font/font"
-        android:hint="   아이디"
+        android:hint="아이디"
         android:inputType="textPersonName"
+        android:paddingLeft="10dp"
         android:textColorHint="#979797"
         android:textSize="12sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
     <EditText
-        android:id="@+id/editTextTextPassword"
+        android:id="@+id/loginPassword"
         android:layout_width="268dp"
         android:layout_height="43dp"
         android:layout_marginStart="53dp"
@@ -46,8 +47,9 @@
         android:background="@drawable/rectangle2"
         android:ems="10"
         android:fontFamily="@font/font"
-        android:hint="   비밀번호"
+        android:hint="비밀번호"
         android:inputType="textPassword"
+        android:paddingLeft="10dp"
         android:textColorHint="#979797"
         android:textSize="12sp"
         app:layout_constraintStart_toStartOf="parent"
@@ -71,7 +73,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/buttonLogin"
         android:layout_width="198dp"
         android:layout_height="43dp"
         android:layout_marginStart="88dp"

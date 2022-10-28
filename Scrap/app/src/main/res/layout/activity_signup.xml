@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".SignupActivity">
+    tools:context=".UI.SignupActivity">
 
     <LinearLayout
         android:id="@+id/linearLayout"
@@ -28,16 +28,15 @@
             android:layout_height="9dp" />
 
         <EditText
-            android:id="@+id/editTextTextPersonName2"
+            android:id="@+id/joinName"
             android:layout_width="252dp"
             android:layout_height="39dp"
             android:ems="10"
-            android:hint="이름을 입력하세요"
-            android:inputType="textPersonName"
-            android:textSize="14sp"
-            android:textColorHint="#979797"
             android:fontFamily="@font/font"
-            />
+            android:hint="이름을 입력하세요"
+            android:textColorHint="#979797"
+            android:textSize="14sp"
+            android:inputType="textPersonName"/>
 
         <TextView
             android:id="@+id/textView5"
@@ -60,12 +59,12 @@
             app:srcCompat="@drawable/id" />
 
         <EditText
-            android:id="@+id/editTextTextPersonName3"
+            android:id="@+id/joinId"
             android:layout_width="252dp"
             android:layout_height="39dp"
             android:ems="10"
             android:fontFamily="@font/font"
-            android:hint="아이디를 입력하세요"
+            android:hint="이메일을 입력하세요"
             android:inputType="textPersonName"
             android:textColorHint="#979797"
             android:textSize="14sp" />
@@ -91,13 +90,13 @@
             app:srcCompat="@drawable/pw" />
 
         <EditText
-            android:id="@+id/editTextTextPersonName6"
+            android:id="@+id/joinPassword"
             android:layout_width="match_parent"
             android:layout_height="39dp"
             android:ems="10"
             android:fontFamily="@font/font"
             android:hint="비밀번호를 입력하세요"
-            android:inputType="textPersonName"
+            android:inputType="textPassword"
             android:textColorHint="#979797"
             android:textSize="14sp" />
 
@@ -122,13 +121,13 @@
             app:srcCompat="@drawable/pw_chk" />
 
         <EditText
-            android:id="@+id/editTextTextPersonName4"
+            android:id="@+id/joinPasswordAgain"
             android:layout_width="match_parent"
             android:layout_height="39dp"
             android:ems="10"
             android:fontFamily="@font/font"
             android:hint="비밀번호 확인을 입력하세요"
-            android:inputType="textPersonName"
+            android:inputType="textPassword"
             android:textColorHint="#979797"
             android:textSize="14sp" />
 
@@ -144,7 +143,7 @@
     </LinearLayout>
 
     <Button
-        android:id="@+id/button3"
+        android:id="@+id/buttonJoin"
         android:layout_width="198dp"
         android:layout_height="43dp"
         android:layout_marginStart="88dp"

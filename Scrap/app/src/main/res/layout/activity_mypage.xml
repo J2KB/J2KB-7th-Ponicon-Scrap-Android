@@ -4,46 +4,83 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MypageActivity">
+    tools:context=".UI.MypageActivity">
 
-    <TextView
-        android:id="@+id/textView7"
+    <ImageView
+        android:id="@+id/imageView7"
         android:layout_width="107dp"
         android:layout_height="24dp"
         android:layout_marginStart="14dp"
         android:layout_marginTop="40dp"
-        android:text="마이페이지"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/back_mypage" />
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        tools:srcCompat="@tools:sample/avatars" />
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_marginStart="34dp"
+        android:layout_marginTop="108dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/profile_platte" />
 
     <TextView
-        android:id="@+id/textView16"
+        android:id="@+id/mypageName"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="TextView" />
+        android:layout_height="24dp"
+        android:layout_marginStart="119dp"
+        android:layout_marginTop="124dp"
+        android:fontFamily="@font/font3"
+        android:text="홍길동 님"
+        android:textColor="#000000"
+        android:textFontWeight="700"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
-        android:id="@+id/textView17"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="TextView" />
+        android:id="@+id/mypageUsername"
+        android:layout_width="51dp"
+        android:layout_height="15dp"
+        android:layout_marginStart="119dp"
+        android:layout_marginTop="156dp"
+        android:text="test1234"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:fontFamily="@font/font"
+        android:textSize="12sp"
+        android:textColor="#979797"
+        />
 
-    <ImageButton
-        android:id="@+id/imageButton"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        tools:srcCompat="@tools:sample/avatars" />
+    <ImageView
+        android:id="@+id/imageView8"
+        android:layout_width="22dp"
+        android:layout_height="22dp"
+        android:layout_marginStart="209dp"
+        android:layout_marginTop="124dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/create" />
+
+    <View
+        android:id="@+id/divider"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="198dp"
+        android:background="?android:attr/listDivider"
+        android:foregroundTint="#EF5350"
+        app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/button4"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Button" />
+        android:id="@+id/buttonLogout"
+        android:layout_width="198dp"
+        android:layout_height="43dp"
+        android:layout_marginStart="89dp"
+        android:layout_marginTop="254dp"
+        android:background="@drawable/logout_btn"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -9,14 +9,47 @@
         <entry key="..\:/Android/AndroidStudioProjects/Scrap/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
         <entry key="..\:/Android/AndroidStudioProjects/Scrap/app/src/main/res/layout/activity_mypage.xml" value="0.17916666666666667" />
         <entry key="..\:/Android/AndroidStudioProjects/Scrap/app/src/main/res/layout/activity_signup.xml" value="0.16458333333333333" />
+        <entry key="..\:/Gits/J2KB-7th-Ponicon-Scrap-Android/Scrap/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1805" />
         <entry key="..\:/Gits/J2KB-7th-Ponicon-Scrap-Android/Scrap/app/src/main/res/drawable/checkbox.xml" value="0.1865" />
+        <entry key="..\:/Gits/J2KB-7th-Ponicon-Scrap-Android/Scrap/app/src/main/res/drawable/edge.xml" value="0.179" />
+        <entry key="..\:/Gits/J2KB-7th-Ponicon-Scrap-Android/Scrap/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1805" />
+        <entry key="..\:/Gits/J2KB-7th-Ponicon-Scrap-Android/Scrap/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.179" />
         <entry key="..\:/Gits/J2KB-7th-Ponicon-Scrap-Android/Scrap/app/src/main/res/drawable/textbox_border.xml" value="0.1875" />
         <entry key="..\:/Gits/J2KB-7th-Ponicon-Scrap-Android/Scrap/app/src/main/res/font/font.xml" value="0.20833333333333334" />
         <entry key="..\:/Gits/J2KB-7th-Ponicon-Scrap-Android/Scrap/app/src/main/res/font/font2.xml" value="0.209375" />
-        <entry key="..\:/Gits/J2KB-7th-Ponicon-Scrap-Android/Scrap/app/src/main/res/layout/activity_login.xml" value="0.3333333333333333" />
-        <entry key="..\:/Gits/J2KB-7th-Ponicon-Scrap-Android/Scrap/app/src/main/res/layout/activity_main.xml" value="0.17916666666666667" />
-        <entry key="..\:/Gits/J2KB-7th-Ponicon-Scrap-Android/Scrap/app/src/main/res/layout/activity_mypage.xml" value="0.17916666666666667" />
-        <entry key="..\:/Gits/J2KB-7th-Ponicon-Scrap-Android/Scrap/app/src/main/res/layout/activity_signup.xml" value="0.22" />
+        <entry key="..\:/Gits/J2KB-7th-Ponicon-Scrap-Android/Scrap/app/src/main/res/font/font3.xml" value="0.20833333333333334" />
+        <entry key="..\:/Gits/J2KB-7th-Ponicon-Scrap-Android/Scrap/app/src/main/res/layout-w936dp/activity_category-add.xml" value="0.17916666666666667" />
+        <entry key="..\:/Gits/J2KB-7th-Ponicon-Scrap-Android/Scrap/app/src/main/res/layout/activity_add_scrap.xml" value="0.16666666666666666" />
+        <entry key="..\:/Gits/J2KB-7th-Ponicon-Scrap-Android/Scrap/app/src/main/res/layout/activity_category.xml" value="0.1" />
+        <entry key="..\:/Gits/J2KB-7th-Ponicon-Scrap-Android/Scrap/app/src/main/res/layout/activity_category_add.xml" value="0.17916666666666667" />
+        <entry key="..\:/Gits/J2KB-7th-Ponicon-Scrap-Android/Scrap/app/src/main/res/layout/activity_home.xml" value="0.16666666666666666" />
+        <entry key="..\:/Gits/J2KB-7th-Ponicon-Scrap-Android/Scrap/app/src/main/res/layout/activity_login.xml" value="0.16666666666666666" />
+        <entry key="..\:/Gits/J2KB-7th-Ponicon-Scrap-Android/Scrap/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Gits/J2KB-7th-Ponicon-Scrap-Android/Scrap/app/src/main/res/layout/activity_mypage.xml" value="0.22" />
+        <entry key="..\:/Gits/J2KB-7th-Ponicon-Scrap-Android/Scrap/app/src/main/res/layout/activity_side_test.xml" value="0.17916666666666667" />
+        <entry key="..\:/Gits/J2KB-7th-Ponicon-Scrap-Android/Scrap/app/src/main/res/layout/activity_signup.xml" value="0.3333333333333333" />
+        <entry key="..\:/Gits/J2KB-7th-Ponicon-Scrap-Android/Scrap/app/src/main/res/layout/appbar.xml" value="0.16666666666666666" />
+        <entry key="..\:/Gits/J2KB-7th-Ponicon-Scrap-Android/Scrap/app/src/main/res/layout/bottom_sheet.xml" value="0.3333333333333333" />
+        <entry key="..\:/Gits/J2KB-7th-Ponicon-Scrap-Android/Scrap/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/Gits/J2KB-7th-Ponicon-Scrap-Android/Scrap/app/src/main/res/layout/content_side_test.xml" value="0.17916666666666667" />
+        <entry key="..\:/Gits/J2KB-7th-Ponicon-Scrap-Android/Scrap/app/src/main/res/layout/header.xml" value="0.6" />
+        <entry key="..\:/Gits/J2KB-7th-Ponicon-Scrap-Android/Scrap/app/src/main/res/layout/item_grid.xml" value="0.3333333333333333" />
+        <entry key="..\:/Gits/J2KB-7th-Ponicon-Scrap-Android/Scrap/app/src/main/res/layout/item_grid_2.xml" value="0.5" />
+        <entry key="..\:/Gits/J2KB-7th-Ponicon-Scrap-Android/Scrap/app/src/main/res/layout/item_grid_add.xml" value="0.4466666666666667" />
+        <entry key="..\:/Gits/J2KB-7th-Ponicon-Scrap-Android/Scrap/app/src/main/res/layout/main.xml" value="0.14666666666666667" />
+        <entry key="..\:/Gits/J2KB-7th-Ponicon-Scrap-Android/Scrap/app/src/main/res/layout/main_drawer_header.xml" value="0.22" />
+        <entry key="..\:/Gits/J2KB-7th-Ponicon-Scrap-Android/Scrap/app/src/main/res/layout/main_layout.xml" value="0.1" />
+        <entry key="..\:/Gits/J2KB-7th-Ponicon-Scrap-Android/Scrap/app/src/main/res/layout/main_toolbar.xml" value="0.16666666666666666" />
+        <entry key="..\:/Gits/J2KB-7th-Ponicon-Scrap-Android/Scrap/app/src/main/res/layout/nav_header_home.xml" value="0.1" />
+        <entry key="..\:/Gits/J2KB-7th-Ponicon-Scrap-Android/Scrap/app/src/main/res/layout/nav_header_main.xml" value="0.17916666666666667" />
+        <entry key="..\:/Gits/J2KB-7th-Ponicon-Scrap-Android/Scrap/app/src/main/res/layout/navi_header.xml" value="0.17916666666666667" />
+        <entry key="..\:/Gits/J2KB-7th-Ponicon-Scrap-Android/Scrap/app/src/main/res/layout/side_category.xml" value="0.1" />
+        <entry key="..\:/Gits/J2KB-7th-Ponicon-Scrap-Android/Scrap/app/src/main/res/layout/spinner_text.xml" value="0.178125" />
+        <entry key="..\:/Gits/J2KB-7th-Ponicon-Scrap-Android/Scrap/app/src/main/res/menu/activity_main_drawer.xml" value="0.17916666666666667" />
+        <entry key="..\:/Gits/J2KB-7th-Ponicon-Scrap-Android/Scrap/app/src/main/res/menu/home_nav_menu_list.xml" value="0.1" />
+        <entry key="..\:/Gits/J2KB-7th-Ponicon-Scrap-Android/Scrap/app/src/main/res/menu/main_activity2.xml" value="0.17916666666666667" />
+        <entry key="..\:/Gits/J2KB-7th-Ponicon-Scrap-Android/Scrap/app/src/main/res/menu/main_drawer_navigation.xml" value="0.14666666666666667" />
+        <entry key="..\:/Gits/J2KB-7th-Ponicon-Scrap-Android/Scrap/app/src/main/res/menu/navi_menu.xml" value="0.17916666666666667" />
       </map>
     </option>
   </component>
